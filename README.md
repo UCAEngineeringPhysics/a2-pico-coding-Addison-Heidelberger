@@ -55,6 +55,15 @@ Please write out the equation of the duty cycle's **increment** value, $s$, belo
 
 > Type equation with LaTex syntax here.
 
+$s$ = $\frac{D_{max}}{n}$
+
+where $n$ = $\frac{T}{t_{delay}}$
+
+$T$ is total time
+
+$t_{delay}$ it the time delay
+
+
 > [!TIP]
 > - Writing mathematical expressions [guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 > - LaTex math [cheat sheet](https://tug.ctan.org/info/undergradmath/undergradmath.pdf) for undergrads
